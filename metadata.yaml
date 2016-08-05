@@ -1,0 +1,28 @@
+_repo: The-Camp-Fire-Girls-Go-Motoring--Or-Along-the-Road-That-Leads-the-Way_6895
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frey, Hildegard G.
+    aliases:
+    - Frey, Hildegard G. (Hildegard Gertrude)
+    - Frey, Hildegarde G.
+    birthdate: 1891
+    deathdate: 1957
+    gutenberg_agent_id: '2241'
+    url: http://www.gutenberg.org/2009/agents/2241
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Camp Fire Girls Go Motoring; Or, Along the Road That Leads the Way
+url: http://www.gutenberg.org/ebooks/6895
